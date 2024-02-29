@@ -1,6 +1,6 @@
 # Seyos test
 
-## Requirement:
+## Requirements:
 * Nodejs >= 21.6.1
 * yarn >= 1.22.21
 
