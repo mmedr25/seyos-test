@@ -9,7 +9,7 @@
 1. make sure you have the requirements stated above
 2. clone the project
 3. open the project in a terminal
-4. run "npm install"
+4. run "yarn install"
 
 ## How to run the project
 * run "yarn dev" in your terminal
